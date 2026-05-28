@@ -1,4 +1,4 @@
-## Nursing qualitative skilss
+## Nursing qualitative skills
 大家好，我是北京中医药大学护理学院临床护理教学部的陈一萍，目前主要从事护理教育、老年护理、临床护理教学以及护理质性研究相关工作。欢迎大家持续关注 nursing-qualitative-skills。本项目希望为护理质性研究论文写作、方法学规范、COREQ/SRQR 报告对齐、IJNS 风格写作和国际期刊投稿提供可复用的 AI skills 支持。
 
 如果你有任何需求，欢迎提交 issue；如果我们认为该需求有意义且可行，也会尽量推进实现。我们同样欢迎 PR，但请务必按照 README 后面说明的格式提交，以便我们更高效地审核与合并。
