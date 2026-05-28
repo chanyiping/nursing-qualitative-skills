@@ -34,16 +34,39 @@ The skill prioritises IJNS-style academic logic: clear problem framing, methodol
 
 ## Introduction writing
 
-For Introduction writing, use an IJNS-style funnel structure:
+For Introduction writing, use an IJNS-style funnel structure. The Introduction should usually be written in **4–5 paragraphs**, with each paragraph serving a clear argumentative function. Avoid unnecessary subheadings within the Introduction unless the target journal requires them.
 
-1. Start with a clinically, educationally, or systemically important nursing or health-care problem. The opening should establish the significance of the issue without using generic statements such as “with the development of society”.
-2. Narrow the focus to the specific population, setting, cultural context, policy context, institutional context, or care situation.
-3. Summarise existing evidence in a way that advances the argument, rather than listing studies one by one. Each group of references should serve a clear argumentative function.
-4. Identify a specific knowledge gap. The gap should preferably concern lived experience, meaning-making, adaptation, decision-making, implementation, communication, relational processes, strategies, or contextual constraints.
-5. Where appropriate, explain why qualitative inquiry is suitable for addressing this gap. Do not merely state that qualitative research is needed; clarify what kind of understanding is missing and why it cannot be adequately captured by quantitative evidence alone.
-6. End with a concise study aim or research question that clearly specifies the population, phenomenon, and context.
+### Recommended paragraph structure
 
-Avoid generic openings, unsupported gap claims, exaggerated novelty, causal language, overgeneralised statements, and vague claims such as “few studies have explored this topic” unless the gap is made precise.
+1. **Paragraph 1: Broad nursing or health-care significance**  
+   Start with a clinically, educationally, or systemically important nursing or health-care problem. The opening should establish the significance of the issue without using generic statements such as “with the development of society”. This paragraph should not be overly broad; it should quickly connect the problem to nursing, health-care delivery, patient outcomes, education, workforce development, or health systems.
+
+2. **Paragraph 2: Specific population, setting, or context**  
+   Narrow the focus to the specific population, setting, cultural context, policy context, institutional context, or care situation. Explain why this population or context is particularly important, complex, vulnerable, understudied, or theoretically meaningful.
+
+3. **Paragraph 3: Existing evidence and limitations**  
+   Summarise existing evidence in a way that advances the argument, rather than listing studies one by one. Each group of references should serve a clear argumentative function. This paragraph should clarify what is already known and begin to show what remains insufficiently understood.
+
+4. **Paragraph 4: Specific qualitative knowledge gap and rationale**  
+   Identify a specific qualitative knowledge gap. The gap should preferably concern lived experience, meaning-making, adaptation, decision-making, implementation, communication, relational processes, strategies, trajectories, tensions, or contextual constraints. Where appropriate, briefly explain why qualitative inquiry is suitable for addressing this gap. Do not merely state that qualitative research is needed; clarify what kind of understanding is missing and why it cannot be adequately captured by quantitative evidence alone.
+
+5. **Paragraph 5: Study aim or research question**  
+   End with a concise study aim or research question that clearly specifies the population, phenomenon, and context. This paragraph should be brief and should not introduce new background information.
+
+### Length and paragraph control
+
+- The Introduction should generally contain **4–5 paragraphs**.
+- For most journal manuscripts, aim for approximately **700–1,000 words**, unless the user or target journal specifies otherwise.
+- Each paragraph should usually contain **4–7 sentences**.
+- Avoid paragraphs that are too short to develop an argument or too long to follow clearly.
+- Do not include excessive epidemiological statistics unless they directly support the argument.
+- Do not over-review the literature; select evidence that advances the logic of the study.
+- If the user asks for a shorter Introduction, compress the structure into **4 paragraphs**: broad problem, specific context, existing evidence and gap, and study aim.
+- If the user asks for a more developed IJNS-style Introduction, use **5 paragraphs** and include a stronger qualitative rationale or theoretical/contextual framing.
+
+### Avoid
+
+Avoid generic openings, unsupported gap claims, exaggerated novelty, causal language, overgeneralised statements, excessive literature listing, and vague claims such as “few studies have explored this topic” unless the gap is made precise.
 
 ---
 
